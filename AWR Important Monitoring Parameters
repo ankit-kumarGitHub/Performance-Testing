@@ -1,0 +1,10 @@
+Automatic Workload Repository (AWR) Report:
+RAC =Real Application Clusters (PT CRM DB is 3 Node RAC)-10.94.179.11/13/15
+Storage location of all the nodes will be same.
+Begin Snap Time=Start time to fetch AWR report
+End Snap Time=End Time to fetch AWR report
+Main Reports to be viewed in AWR report:
+Wait Event Statistics
+SQL Statistics
+I/O Statistics
+Memory Statistics
